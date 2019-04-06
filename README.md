@@ -11,3 +11,6 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 
 //building advance Csharp methods
 http://www.ssw.uni-linz.ac.at/Teaching/Lectures/CSharp/Tutorial/Part2.pdf 
+
+//python fundamentals
+https://python.cs.southern.edu/pythonbook/pythonbook.pdf
